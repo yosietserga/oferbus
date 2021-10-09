@@ -1,0 +1,42 @@
+[12-Apr-2019 17:44:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Using $this when not in object context in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 3
+[12-Apr-2019 17:44:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Using $this when not in object context in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 3
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:50:31 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 11
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 11
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 8
+[12-Apr-2019 17:52:21 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 11
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 12
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 12
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 9
+[12-Apr-2019 17:53:12 America/Argentina/Buenos_Aires] PHP Warning:  Illegal offset type in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 12
+[26-Apr-2019 19:51:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 24
+[26-Apr-2019 19:52:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 24
+[26-Apr-2019 19:52:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 24
+[27-Apr-2019 16:32:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:32:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:32:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:32:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:32:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:32:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:33:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[27-Apr-2019 16:33:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_package_room in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/test.php on line 45
+[24-May-2019 07:27:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/classes/ViajeroPaqueteLinea.php on line 123
+[24-May-2019 07:28:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/gmpanel/public_html/oferbus.com.ar/modules/viajero/classes/ViajeroPaqueteLinea.php on line 127

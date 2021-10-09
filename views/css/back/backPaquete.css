@@ -1,0 +1,57 @@
+.accordion-panels{
+    margin-top: 10px;
+}
+
+.accordion-panels .panel{
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+    padding-bottom: 0 !important;
+    border-radius: 0 !important;
+    overflow: hidden;
+}
+
+.accordion-panels .panel:first-child{
+    border-radius: 5px 5px 0 0 !important;
+}
+
+.accordion-panels .panel:last-child{
+    border-radius: 0 0 5px 5px !important;
+}
+
+.accordion-panels .panel .panel-heading{
+    margin: -20px -21px 0px -21px !important;
+    padding: 0 15px !important;
+    position: relative;
+    overflow: hidden;
+}
+
+.accordion-panels .panel .panel-heading a[role="button"]{
+    color: #444;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+}
+
+.accordion-panels .panel .panel-body{
+    border-top: 0px !important;
+}
+
+.accordion-panels .btn-clone-collapse {
+    position: absolute;
+    right: 40px;
+    top: 0px;
+}
+
+.accordion-panels .btn-delete-collapse{
+    position: absolute;
+    right: 15px;
+    top: 0px;
+}
+
+.mce-notification{
+    display: none !important;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}

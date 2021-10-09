@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>viajero</name>
+    <displayName><![CDATA[Gestor de paquetes]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Crea tus paquetes de viajes]]></description>
+    <author><![CDATA[inventiba]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Esta seguro de desinstalar el modulo Viajero?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
